@@ -1,6 +1,0 @@
-c:\users\emogo\documents\visual studio 2015\Projects\HilArkSoru\HilArkSoru\bin\Debug\HilArkSoru.exe.config
-c:\users\emogo\documents\visual studio 2015\Projects\HilArkSoru\HilArkSoru\bin\Debug\HilArkSoru.exe
-c:\users\emogo\documents\visual studio 2015\Projects\HilArkSoru\HilArkSoru\bin\Debug\HilArkSoru.pdb
-c:\users\emogo\documents\visual studio 2015\Projects\HilArkSoru\HilArkSoru\obj\Debug\HilArkSoru.csprojResolveAssemblyReference.cache
-c:\users\emogo\documents\visual studio 2015\Projects\HilArkSoru\HilArkSoru\obj\Debug\HilArkSoru.exe
-c:\users\emogo\documents\visual studio 2015\Projects\HilArkSoru\HilArkSoru\obj\Debug\HilArkSoru.pdb
