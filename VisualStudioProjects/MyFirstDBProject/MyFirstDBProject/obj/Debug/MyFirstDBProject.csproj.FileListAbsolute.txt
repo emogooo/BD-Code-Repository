@@ -1,0 +1,9 @@
+c:\users\emogo\documents\visual studio 2015\Projects\MyFirstDBProject\MyFirstDBProject\bin\Debug\MyFirstDBProject.exe.config
+c:\users\emogo\documents\visual studio 2015\Projects\MyFirstDBProject\MyFirstDBProject\bin\Debug\MyFirstDBProject.exe
+c:\users\emogo\documents\visual studio 2015\Projects\MyFirstDBProject\MyFirstDBProject\bin\Debug\MyFirstDBProject.pdb
+c:\users\emogo\documents\visual studio 2015\Projects\MyFirstDBProject\MyFirstDBProject\obj\Debug\MyFirstDBProject.csprojResolveAssemblyReference.cache
+c:\users\emogo\documents\visual studio 2015\Projects\MyFirstDBProject\MyFirstDBProject\obj\Debug\MyFirstDBProject.Form1.resources
+c:\users\emogo\documents\visual studio 2015\Projects\MyFirstDBProject\MyFirstDBProject\obj\Debug\MyFirstDBProject.Properties.Resources.resources
+c:\users\emogo\documents\visual studio 2015\Projects\MyFirstDBProject\MyFirstDBProject\obj\Debug\MyFirstDBProject.csproj.GenerateResource.Cache
+c:\users\emogo\documents\visual studio 2015\Projects\MyFirstDBProject\MyFirstDBProject\obj\Debug\MyFirstDBProject.exe
+c:\users\emogo\documents\visual studio 2015\Projects\MyFirstDBProject\MyFirstDBProject\obj\Debug\MyFirstDBProject.pdb

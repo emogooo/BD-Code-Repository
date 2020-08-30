@@ -1,0 +1,12 @@
+c:\users\emirhan\documents\visual studio 2015\Projects\For Döngüsü\For Döngüsü\bin\Debug\For Döngüsü.exe.config
+c:\users\emirhan\documents\visual studio 2015\Projects\For Döngüsü\For Döngüsü\bin\Debug\For Döngüsü.exe
+c:\users\emirhan\documents\visual studio 2015\Projects\For Döngüsü\For Döngüsü\bin\Debug\For Döngüsü.pdb
+c:\users\emirhan\documents\visual studio 2015\Projects\For Döngüsü\For Döngüsü\obj\Debug\For Döngüsü.csprojResolveAssemblyReference.cache
+c:\users\emirhan\documents\visual studio 2015\Projects\For Döngüsü\For Döngüsü\obj\Debug\For_Döngüsü.Form1.resources
+c:\users\emirhan\documents\visual studio 2015\Projects\For Döngüsü\For Döngüsü\obj\Debug\For_Döngüsü.Properties.Resources.resources
+c:\users\emirhan\documents\visual studio 2015\Projects\For Döngüsü\For Döngüsü\obj\Debug\For Döngüsü.csproj.GenerateResource.Cache
+c:\users\emirhan\documents\visual studio 2015\Projects\For Döngüsü\For Döngüsü\obj\Debug\For Döngüsü.exe
+c:\users\emirhan\documents\visual studio 2015\Projects\For Döngüsü\For Döngüsü\obj\Debug\For Döngüsü.pdb
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\Asal Sayı Hesap Programı ( for)\For Döngüsü\bin\Debug\For Döngüsü.exe.config
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\Asal Sayı Hesap Programı ( for)\For Döngüsü\obj\Debug\For Döngüsü.exe
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\Asal Sayı Hesap Programı ( for)\For Döngüsü\obj\Debug\For Döngüsü.pdb

@@ -1,0 +1,402 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>4. Ödev</title>
+	<meta charset="utf-8" />
+    <style>
+        #anakutu{
+            height:5468px;
+            width:1920px;
+            margin-left:auto;
+            margin-right:auto;
+        }
+        #ilkkutu{
+            width:100%;
+            height:17%;
+            background-image:url(resimler/wp.jpg);
+            background-repeat:no-repeat;
+        }
+        #ikincikutu{
+            width:100%;
+            height:13%;
+        }
+        #ucuncukutu{
+            width:100%;
+            height:18%;
+            background-color:#31266d;
+        }
+        #dorduncukutu{
+            width:100%;
+            height:35%;
+        }
+        #besincikutu{
+            width:100%;
+            height:4%;
+            background-color:#31266d;
+        }
+        #altincikutu{
+            width:100%;
+            height:10%;
+        }
+        #yedincikutu{
+            width:100%;
+            height:15%;
+        }
+        #allahasukurbitti{
+            width:100%;
+            height:5%;
+        }
+        #icdiv{
+            width:50%;
+            height:100%;
+            float:left;
+            background-color:rgba(0, 20, 255, 0.4);
+        }
+        #icdiv2{
+            width:50%;
+            height:100%;
+            float:left;
+            background-color:rgba(0, 0, 0, 0.6);
+        }
+        #icdivt{
+            width:50%;
+            height:100%;
+            float:left;
+        }
+        .menu{
+            float:right;
+            border-radius:900px;
+            margin-top:30px;
+            margin-right:30px;
+        }
+        .kkb{
+            font-family:Arial;
+            font-size:18px;
+            font-weight:600;
+            margin-left:300px;
+            margin-top:400px;
+            color:white;
+        }
+        .bib{
+            font-family:Arial;
+            font-size:45px;
+            font-weight:lighter;
+            margin-left:300px;
+            color:white;
+            margin-top:0px;
+            margin-bottom:20px;
+        }
+        .kib{
+            font-family:Arial;
+            font-size:15px;
+            margin-left:300px;
+            color:white;
+            padding-right:150px;
+        }
+        .logo{
+            float:left;
+            margin-left:300px;
+            margin-right:20px;
+            border-radius:600px;
+        }
+        .logo1{
+            float:left;
+            margin-right:20px;
+            background-color:white;
+            border-radius:900px;
+        }
+        .rduz{
+            margin-top:100px;
+            margin-left:290px;
+        }
+        .kks{
+            font-family:Arial;
+            font-size:18px;
+            font-weight:700;
+            margin-left:50px;
+            margin-top:95px;
+            color:black;
+        }
+        .ois{
+            font-family:Arial;
+            font-size:22px;
+            font-weight:100;
+            margin-left:50px;
+            margin-top:10px;
+        }
+        .paragraf1{
+            font-family:Arial;
+            font-size:20px;
+            font-weight:100;
+            margin-left:50px;
+            margin-top:50px;
+            padding-right:200px;
+        }
+        .bar{
+            margin-left:40px;
+        }
+        .barbaslik{
+            margin-top:25px;
+            font-family:Arial;
+            font-size:18px;
+            font-weight:800;
+            margin-left:50px;
+            color:grey;
+            margin-bottom:0px;
+        }
+        .bib2{
+            font-family:Arial;
+            font-size:40px;
+            font-weight:lighter;
+            margin-left:700px;
+            color:white;
+            padding-top:80px;
+        }
+        .paragraf2{
+            font-family:Arial;
+            font-size:30px;
+            margin-left:700px;
+            color:white;
+            padding-right:500px;
+        }
+        .kutucuk{
+            background-color:white;
+            width:35%;
+            height:18%;
+            margin-top:50px;
+            margin-left:700px;
+        }
+        .paragraf11{
+            font-family:Arial;
+            font-size:20px;
+            font-weight:100;
+            margin-left:50px;
+            margin-top:50px;
+            padding-right:200px;
+            padding-top:50px;
+            color:#736c95;
+        }
+        .baslik1{
+            font-size:30px;
+            margin-top:50px;
+            margin-left:850px;
+            font-family:Arial;
+            font-weight:600;
+        }
+        .presima{
+            margin-top:50px;
+            margin-left:200px;
+        }
+        .presim{
+            margin-top:50px;
+            margin-left:200px;
+            float:left;
+        }
+        .paragraf111{
+            font-family:Arial;
+            font-size:20px;
+            font-weight:100;
+            color:#736c95;
+            margin-left:50px;
+        }
+        .kutucuk2{
+            background-color:white;
+            width:22%;
+            height:22%;
+            margin-top:50px;
+            margin-right:0px;
+            float:left;
+            margin-left:200px;
+        }
+        .ubaslik{
+            font-family:Arial;
+            font-size:22px;
+            font-weight:700;
+            margin-left:50px;
+        }
+        .altaal{
+            float:left;
+            margin-top:25px;
+        }
+        .lwt{
+            font-family:Arial;
+            font-size:45px;
+            font-weight:400;
+            margin-left:400px;
+            padding-top:50px;
+            color:white;
+            float:left;
+        }
+        .buton{
+            background-color:#1f3edf;
+            margin-left:300px;
+            margin-top:80px;
+            padding:25px 60px 25px 60px;
+            color:white;
+            font-size:20px;
+            font-family:Arial;
+            font-weight:700;
+            border-color:#1f3edf;
+        }
+        .ubaslik2{
+            font-family:Arial;
+            font-size:20px;
+            font-weight:100;
+            color:#736c95;
+            margin-left:800px;
+        }
+        .kutucuk3{
+            width:300px;
+            height:150px;
+            float:left;
+            margin-right:150px;
+            margin-left:400px;
+        }
+        .kutucuk33{
+            width:300px;
+            height:150px;
+            float:left;
+            margin-right:100px;
+        }
+        .son1{
+            font-family:Arial;
+            font-size:22px;
+            font-weight:100;
+            margin-left:500px;
+            color:#736c95;
+            float:left;
+            
+        }
+        .son2{
+            font-family:Arial;
+            font-size:22px;
+            font-weight:100;
+            margin-left:400px;
+            color:#736c95;
+            float:left;
+        }
+        .buton2{
+            background-color:#1f3edf;
+            margin-left:900px;
+            margin-top:400px;
+            padding:25px 60px 25px 60px;
+            color:white;
+            font-size:20px;
+            font-family:Arial;
+            font-weight:700;
+            border-color:#1f3edf;
+        }
+        .sonikon{
+            border-radius:800px;
+            margin-left:800px;
+            margin-right:25px;
+        }
+        .sonikon2{
+            border-radius:800px;
+            margin-right:25px;
+        }
+        .altyazi{
+            font-family:Arial;
+            font-size:20px;
+            font-weight:100;
+            color:#736c95;
+            margin-left:780px;
+            margin-top:50px;
+        }
+    </style>
+</head>
+<body>
+    <div id="anakutu">
+        <div id="ilkkutu">
+            <div id="icdiv">
+                <p class="kkb">Howdy! I'm</p>
+                <p class="bib">UI/UX Developer</p>
+                <p class="kib">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, nisi, laborum autem reprehenderit excepturi harum ipsum quod sit.</p>
+                <img src="resimler/fb.jpg" class="logo"/>
+                <img src="resimler/tw.jpg" class="logo1" />
+                <img src="resimler/cat.jpg" class="logo1" />
+            </div>
+            <div id="icdiv2">
+                <img src="resimler/menu.png" class="menu"/>
+            </div>
+        </div>
+        <div id="ikincikutu">
+            <div id="icdivt">
+                <img src="resimler/eresim.jpg" class="rduz"/>
+            </div>
+            <div id="icdivt">
+                <p class="kks">Hello! Welcome to my personal website</p>
+                <p class="ois">I'M 22 years old full stack developer & designer from <span style="color:blue">Florida, USA.</span></p>
+                <p class="paragraf1">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur.</p>
+                <p class="barbaslik">JQUERY</p>
+                <img src="resimler/bar.jpg" class="bar"/>
+                <p class="barbaslik">HTML5</p>
+                <img src="resimler/bar.jpg" class="bar" />
+                <p class="barbaslik">CSS3</p>
+                <img src="resimler/bar.jpg" class="bar" />
+            </div>
+        </div>
+        <div id="ucuncukutu">
+            <p class="bib2">Full stack & self developer</p>
+            <p class="paragraf2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, nisi, laborum autem reprehenderit excepturi harum ipsum quod sit.</p>
+            <div class="kutucuk"><p class="paragraf11">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, nisi, laborum autem reprehenderit excepturi harum ipsum quod sit.</p></div>
+            <div class="kutucuk"><p class="paragraf11">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, nisi, laborum autem reprehenderit excepturi harum ipsum quod sit.</p></div>
+            <div class="kutucuk"><p class="paragraf11">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, nisi, laborum autem reprehenderit excepturi harum ipsum quod sit.</p></div>
+        </div>
+        <div id="dorduncukutu">
+            <p class="baslik1">RECENT PROJECTS</p>
+            <img src="resimler/presim.jpg" class="presima" />
+            <img src="resimler/presim.jpg" class="presim" />
+            <img src="resimler/presim.jpg" class="presim" />
+            <img src="resimler/presim.jpg" class="presima" />
+            <img src="resimler/presim.jpg" class="presim" />
+            <img src="resimler/presim.jpg" class="presim" />
+            <p class="baslik1">WHAT I OFFER?</p>
+            <div class="kutucuk2"><img src="resimler/1.jpg" class="altaal"/><p class="ubaslik">WEB DESIGN</p><p class="paragraf111">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır.</p></div>
+            <div class="kutucuk2"><img src="resimler/1.jpg" class="altaal"/><p class="ubaslik">WEB DEVELOPING</p><p class="paragraf111">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır.</p></div>
+            <div class="kutucuk2"><img src="resimler/1.jpg" class="altaal"/><p class="ubaslik">MARKETING</p><p class="paragraf111">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır.</p></div>
+            <div class="kutucuk2"><img src="resimler/1.jpg" class="altaal"/><p class="ubaslik">PHOTOGRAPHY</p><p class="paragraf111">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır.</p></div>
+            <div class="kutucuk2"><img src="resimler/1.jpg" class="altaal"/><p class="ubaslik">HTML / CSS</p><p class="paragraf111">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır.</p></div>
+            <div class="kutucuk2"><img src="resimler/1.jpg" class="altaal"/><p class="ubaslik">24/7 SUPPORT</p><p class="paragraf111">Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır.</p></div>
+            
+        </div>
+        <div id="besincikutu">
+            <p class="lwt">Let's Work together</p>
+            <input type="button" value="HIRE ME" class="buton" />
+        </div>
+        <div id="altincikutu">
+            <p class="baslik1">CONTACT ME</p>
+            <p class="ubaslik2">Feel free to leave a message to me.</p>
+            <div class="kutucuk3">
+                <img src="resimler/1.jpg" class="altaal" />
+                <p class="ubaslik">ADDRESS</p>
+                <p class="paragraf111">124th Floort, Lorem Streed, Ipsum Tower, 302021</p>
+            </div>
+            <div class="kutucuk33">
+                <img src="resimler/1.jpg" class="altaal" />
+                <p class="ubaslik">EMAIL</p>
+                <p class="paragraf111">support@markadison.com</p>
+            </div>
+            <div class="kutucuk33">
+                <img src="resimler/1.jpg" class="altaal" />
+                <p class="ubaslik">PHONE</p>
+                <p class="paragraf111">05350410746</p>
+            </div>
+        </div>
+        <div id="yedincikutu">
+            <p class="son1">Name</p>
+            <p class="son2">Email</p>
+            <p class="son2">Message</p>
+            <input type="button" value="SUBMIT" class="buton2" />
+        </div>
+        <div id="allahasukurbitti">
+            <img src="resimler/fb.jpg" class="sonikon"/>
+            <img src="resimler/tw.jpg" class="sonikon2"/>
+            <img src="resimler/cat.jpg" class="sonikon2"/>
+            <img src="resimler/fb.jpg" class="sonikon2"/>
+            <img src="resimler/tw.jpg" class="sonikon2"/>
+            <p class="altyazi">@ Copyright 2020. All Right Reserved. Assan</p>
+        </div>
+    </div>
+</body>
+</html>

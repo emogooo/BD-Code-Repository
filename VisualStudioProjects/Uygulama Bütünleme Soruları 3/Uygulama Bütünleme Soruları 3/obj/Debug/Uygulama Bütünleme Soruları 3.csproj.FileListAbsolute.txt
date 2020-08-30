@@ -1,0 +1,12 @@
+c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\bin\Debug\Uygulama Bütünleme Soruları 3.exe.config
+c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\bin\Debug\Uygulama Bütünleme Soruları 3.exe
+c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\bin\Debug\Uygulama Bütünleme Soruları 3.pdb
+c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\obj\Debug\Uygulama Bütünleme Soruları 3.csprojResolveAssemblyReference.cache
+c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\obj\Debug\Uygulama_Bütünleme_Soruları_3.Form1.resources
+c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\obj\Debug\Uygulama_Bütünleme_Soruları_3.Properties.Resources.resources
+c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\obj\Debug\Uygulama Bütünleme Soruları 3.csproj.GenerateResource.Cache
+c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\obj\Debug\Uygulama Bütünleme Soruları 3.exe
+c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\obj\Debug\Uygulama Bütünleme Soruları 3.pdb
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\AVP1\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\bin\Debug\Uygulama Bütünleme Soruları 3.exe.config
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\AVP1\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\obj\Debug\Uygulama Bütünleme Soruları 3.exe
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\AVP1\Uygulama Bütünleme Soruları 3\Uygulama Bütünleme Soruları 3\obj\Debug\Uygulama Bütünleme Soruları 3.pdb

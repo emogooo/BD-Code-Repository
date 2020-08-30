@@ -1,0 +1,9 @@
+c:\users\emogo\documents\visual studio 2015\Projects\HilSoru\HilSoru\bin\Debug\HilSoru.exe.config
+c:\users\emogo\documents\visual studio 2015\Projects\HilSoru\HilSoru\bin\Debug\HilSoru.exe
+c:\users\emogo\documents\visual studio 2015\Projects\HilSoru\HilSoru\bin\Debug\HilSoru.pdb
+c:\users\emogo\documents\visual studio 2015\Projects\HilSoru\HilSoru\obj\Debug\HilSoru.csprojResolveAssemblyReference.cache
+c:\users\emogo\documents\visual studio 2015\Projects\HilSoru\HilSoru\obj\Debug\HilSoru.Form1.resources
+c:\users\emogo\documents\visual studio 2015\Projects\HilSoru\HilSoru\obj\Debug\HilSoru.Properties.Resources.resources
+c:\users\emogo\documents\visual studio 2015\Projects\HilSoru\HilSoru\obj\Debug\HilSoru.csproj.GenerateResource.Cache
+c:\users\emogo\documents\visual studio 2015\Projects\HilSoru\HilSoru\obj\Debug\HilSoru.exe
+c:\users\emogo\documents\visual studio 2015\Projects\HilSoru\HilSoru\obj\Debug\HilSoru.pdb

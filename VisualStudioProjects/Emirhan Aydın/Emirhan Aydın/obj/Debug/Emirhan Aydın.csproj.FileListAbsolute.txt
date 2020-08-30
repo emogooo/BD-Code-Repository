@@ -1,0 +1,33 @@
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\ApplicationInsights.config
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\csc.exe
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\System.Collections.Immutable.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\vbc.exe
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\VBCSCompiler.exe
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\roslyn\VBCSCompiler.exe.config
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Emirhan Aydın.dll.config
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Emirhan Aydın.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Emirhan Aydın.pdb
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.AI.Web.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.AI.WindowsServer.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.ApplicationInsights.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.AI.Web.xml
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.AI.WindowsServer.xml
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.ApplicationInsights.xml
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\obj\Debug\Emirhan Aydın.csprojResolveAssemblyReference.cache
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\obj\Debug\Emirhan Aydın.dll
+c:\users\emirhan\documents\visual studio 2015\Projects\Emirhan Aydın\Emirhan Aydın\obj\Debug\Emirhan Aydın.pdb

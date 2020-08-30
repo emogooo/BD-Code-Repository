@@ -1,0 +1,2 @@
+rootProject.name='HMEmogo'
+include ':app'
