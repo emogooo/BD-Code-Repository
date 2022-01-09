@@ -1,8 +1,0 @@
-c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 2\Uygulama Bütünleme Soruları 2\bin\Debug\Uygulama Bütünleme Soruları 2.exe.config
-c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 2\Uygulama Bütünleme Soruları 2\bin\Debug\Uygulama Bütünleme Soruları 2.exe
-c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 2\Uygulama Bütünleme Soruları 2\bin\Debug\Uygulama Bütünleme Soruları 2.pdb
-c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 2\Uygulama Bütünleme Soruları 2\obj\Debug\Uygulama_Bütünleme_Soruları_2.Form1.resources
-c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 2\Uygulama Bütünleme Soruları 2\obj\Debug\Uygulama_Bütünleme_Soruları_2.Properties.Resources.resources
-c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 2\Uygulama Bütünleme Soruları 2\obj\Debug\Uygulama Bütünleme Soruları 2.csproj.GenerateResource.Cache
-c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 2\Uygulama Bütünleme Soruları 2\obj\Debug\Uygulama Bütünleme Soruları 2.exe
-c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Bütünleme Soruları 2\Uygulama Bütünleme Soruları 2\obj\Debug\Uygulama Bütünleme Soruları 2.pdb

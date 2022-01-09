@@ -1,6 +1,0 @@
-E:\Projelerim\Visual Studio 2015\Projects\IsletimSistemleriOdev3\IsletimSistemleriOdev3\bin\Debug\IsletimSistemleriOdev3.exe.config
-E:\Projelerim\Visual Studio 2015\Projects\IsletimSistemleriOdev3\IsletimSistemleriOdev3\bin\Debug\IsletimSistemleriOdev3.exe
-E:\Projelerim\Visual Studio 2015\Projects\IsletimSistemleriOdev3\IsletimSistemleriOdev3\bin\Debug\IsletimSistemleriOdev3.pdb
-E:\Projelerim\Visual Studio 2015\Projects\IsletimSistemleriOdev3\IsletimSistemleriOdev3\obj\Debug\IsletimSistemleriOdev3.csprojResolveAssemblyReference.cache
-E:\Projelerim\Visual Studio 2015\Projects\IsletimSistemleriOdev3\IsletimSistemleriOdev3\obj\Debug\IsletimSistemleriOdev3.exe
-E:\Projelerim\Visual Studio 2015\Projects\IsletimSistemleriOdev3\IsletimSistemleriOdev3\obj\Debug\IsletimSistemleriOdev3.pdb

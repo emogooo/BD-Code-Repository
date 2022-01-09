@@ -1,6 +1,0 @@
-c:\users\emogo\documents\visual studio 2015\Projects\isilipeksarikaya\isilipeksarikaya\bin\Debug\isilipeksarikaya.exe.config
-c:\users\emogo\documents\visual studio 2015\Projects\isilipeksarikaya\isilipeksarikaya\bin\Debug\isilipeksarikaya.exe
-c:\users\emogo\documents\visual studio 2015\Projects\isilipeksarikaya\isilipeksarikaya\bin\Debug\isilipeksarikaya.pdb
-c:\users\emogo\documents\visual studio 2015\Projects\isilipeksarikaya\isilipeksarikaya\obj\Debug\isilipeksarikaya.csprojResolveAssemblyReference.cache
-c:\users\emogo\documents\visual studio 2015\Projects\isilipeksarikaya\isilipeksarikaya\obj\Debug\isilipeksarikaya.exe
-c:\users\emogo\documents\visual studio 2015\Projects\isilipeksarikaya\isilipeksarikaya\obj\Debug\isilipeksarikaya.pdb
