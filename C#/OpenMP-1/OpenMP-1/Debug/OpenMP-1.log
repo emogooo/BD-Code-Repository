@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\projelerim\visual studio 2015\projects\openmp-1\openmp-1\source.cpp(5): warning C4101: 'tid': unreferenced local variable
+e:\projelerim\visual studio 2015\projects\openmp-1\openmp-1\source.cpp(5): warning C4101: 'i': unreferenced local variable
+  OpenMP-1.vcxproj -> E:\Projelerim\Visual Studio 2015\Projects\OpenMP-1\Debug\OpenMP-1.exe
+  OpenMP-1.vcxproj -> E:\Projelerim\Visual Studio 2015\Projects\OpenMP-1\Debug\OpenMP-1.pdb (Full PDB)

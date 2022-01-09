@@ -1,0 +1,9 @@
+c:\users\emogo\documents\visual studio 2015\Projects\UygulamaOdevi\UygulamaOdevi\bin\Debug\UygulamaOdevi.exe.config
+c:\users\emogo\documents\visual studio 2015\Projects\UygulamaOdevi\UygulamaOdevi\bin\Debug\UygulamaOdevi.exe
+c:\users\emogo\documents\visual studio 2015\Projects\UygulamaOdevi\UygulamaOdevi\bin\Debug\UygulamaOdevi.pdb
+c:\users\emogo\documents\visual studio 2015\Projects\UygulamaOdevi\UygulamaOdevi\obj\Debug\UygulamaOdevi.csprojResolveAssemblyReference.cache
+c:\users\emogo\documents\visual studio 2015\Projects\UygulamaOdevi\UygulamaOdevi\obj\Debug\UygulamaOdevi.Form1.resources
+c:\users\emogo\documents\visual studio 2015\Projects\UygulamaOdevi\UygulamaOdevi\obj\Debug\UygulamaOdevi.Properties.Resources.resources
+c:\users\emogo\documents\visual studio 2015\Projects\UygulamaOdevi\UygulamaOdevi\obj\Debug\UygulamaOdevi.csproj.GenerateResource.Cache
+c:\users\emogo\documents\visual studio 2015\Projects\UygulamaOdevi\UygulamaOdevi\obj\Debug\UygulamaOdevi.exe
+c:\users\emogo\documents\visual studio 2015\Projects\UygulamaOdevi\UygulamaOdevi\obj\Debug\UygulamaOdevi.pdb

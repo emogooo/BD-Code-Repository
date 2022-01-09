@@ -1,0 +1,9 @@
+c:\users\emirhan\documents\visual studio 2015\Projects\Uygulama Soruları 2\Uygulama Soruları 2\bin\Debug\Uygulama Soruları 2.exe.config
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\Uygulama Soruları 2\Uygulama Soruları 2\bin\Debug\Uygulama Soruları 2.exe
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\Uygulama Soruları 2\Uygulama Soruları 2\bin\Debug\Uygulama Soruları 2.pdb
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\Uygulama Soruları 2\Uygulama Soruları 2\obj\Debug\Uygulama Soruları 2.csprojResolveAssemblyReference.cache
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\Uygulama Soruları 2\Uygulama Soruları 2\obj\Debug\Uygulama_Soruları_2.Form1.resources
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\Uygulama Soruları 2\Uygulama Soruları 2\obj\Debug\Uygulama_Soruları_2.Properties.Resources.resources
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\Uygulama Soruları 2\Uygulama Soruları 2\obj\Debug\Uygulama Soruları 2.csproj.GenerateResource.Cache
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\Uygulama Soruları 2\Uygulama Soruları 2\obj\Debug\Uygulama Soruları 2.exe
+C:\Users\Emirhan\Documents\Visual Studio 2015\Projects\Uygulama Soruları 2\Uygulama Soruları 2\obj\Debug\Uygulama Soruları 2.pdb

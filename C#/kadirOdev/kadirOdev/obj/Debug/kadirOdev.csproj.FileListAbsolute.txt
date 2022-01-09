@@ -1,0 +1,17 @@
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\bin\Debug\kadirOdev.exe.config
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\bin\Debug\kadirOdev.exe
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\bin\Debug\kadirOdev.pdb
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\kadirOdev.csprojResolveAssemblyReference.cache
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\MainWindow.g.cs
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\App.g.cs
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\kadirOdev_MarkupCompile.cache
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\kadirOdev_MarkupCompile.lref
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\MainWindow.baml
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\kadirOdev.g.resources
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\kadirOdev.Properties.Resources.resources
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\kadirOdev.csproj.GenerateResource.Cache
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\kadirOdev.exe
+c:\users\emogo\documents\visual studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\kadirOdev.pdb
+E:\Projelerim\Visual Studio 2015\Projects\kadirOdev\kadirOdev\bin\Debug\kadirOdev.exe.config
+E:\Projelerim\Visual Studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\kadirOdev.exe
+E:\Projelerim\Visual Studio 2015\Projects\kadirOdev\kadirOdev\obj\Debug\kadirOdev.pdb
