@@ -1,5 +1,4 @@
 import Adafruit_DHT
-import time
 
 DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
@@ -9,5 +8,4 @@ while True:
     if nem is not None and sicaklik is not None:
         print("Sıcaklık = {0:0.1f}C Nem = %{1:0.1f}".format(sicaklik, nem))
     else:
-        print("Sensör hatası. Bağlantıyı kontrol edin.");
-    time.sleep(3);
+        print("Sensör hatası. Bağlantıyı kontrol edin.")
